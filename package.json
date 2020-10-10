@@ -1,0 +1,19 @@
+{
+"name":"dockernode",
+"version":"1.0.0",
+"description":"Hola mundo.",
+"repository": {
+      "type": "git",
+      "url": "https://github.com/erickbrenes07/dockerPuraVida.git"
+    },
+"main":"index.js",
+"scripts":{
+"test":"echo \"Error: no test specified\"&& exit 1",
+"start":"node index.js"
+},
+"author": "",
+"license":"MIT",
+"dependencies":{
+"express":"^4.17.1"
+}
+}
